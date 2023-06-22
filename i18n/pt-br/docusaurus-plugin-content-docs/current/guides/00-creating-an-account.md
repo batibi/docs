@@ -3,7 +3,7 @@ slug: account
 sidebar_position: 0
 ---
 
-# Creating an Account
+# Creating an Account (from Clark)
 
 Creating an account opens access to the online Web Admin portal which can be viewed using any supported browser from anywhere internet service is available. This access will give you the ability to create and manage printing devices connected to the internet anywhere in the world.
 
