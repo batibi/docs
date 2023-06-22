@@ -6,7 +6,7 @@ sidebar_position: 0
 import Button from '@mui/joy/Button';
 import Box from '@mui/joy/Box';
 
-# Quickstart
+# Quickstart (from Clark)
 
 ## 1. Start your Trial
 
